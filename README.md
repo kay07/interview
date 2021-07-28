@@ -2,6 +2,6 @@
 <h1 align="center">面试指南</h1>
 
 **🚀 语言分类**
-- [**GO**](Doc/Knowledge/C++/README.md)
+- [**GO**](Go.md)
 - [**JAVA**]
 - [**C#**]
